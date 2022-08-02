@@ -9,4 +9,6 @@ output out;	#output for logic gate
 #dataflow modelling style code
 assign out=~(a^b);
 
+
+
 endmodule
